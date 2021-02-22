@@ -45,7 +45,10 @@
   width: 150px;
   height: auto;
   margin: 25px auto;
-  color: #CCC;
+  &.fa {
+    font-size: 9em;
+    color: #CCC;
+  }
 }
 .selling-point-code {
   color: #CCC;
